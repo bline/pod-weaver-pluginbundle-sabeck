@@ -59,7 +59,7 @@ Copy of RJBS plugin bundle with the following commands/sections:
     =clattr     CLASS ATTRIBUTES    MooseX::ClassAttribute attributes
     =clmethod   CLASS METHODS       class methods
 
-=back
+=cut
 
 1;
 
